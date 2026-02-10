@@ -1,6 +1,6 @@
 # Badge
 Aprendendo Sobre PR
 
-##  Conteuda da aula
+##  Conteudo da aula
 - git branch
 - git commands
